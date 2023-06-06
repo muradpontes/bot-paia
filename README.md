@@ -1,4 +1,4 @@
-# bot-paia
+# bot paia
 
 > Esse código implementa um bot que busca tweets que contenham uma determinada palavra-chave ('paia') usando a API do Twitter, e retweeta o tweet encontrado. 
 > Além disso, o bot registra em um arquivo de log todas as informações do tweet retweetado, incluindo o nome do usuário, o texto do tweet e a hora em que foi 
