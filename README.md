@@ -5,8 +5,6 @@
 > retweetado.
 > O bot é executado em um loop infinito, buscando por novos tweets a cada 60 segundos e registrando qualquer erro que ocorra durante a execução.
 
-
-
 <p align=center>
     <a href="https://twitter.com/botpaia">perfil do bot paia no twitter🔗</a>
     <br>
