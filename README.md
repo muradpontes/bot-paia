@@ -1,5 +1,7 @@
 # bot paia
 
+# ⚠ Devido às recentes alterações na API do twitter, o bot paia encerrou suas operações depois de 1 ano dando retweet em quase 50 mil tweets e conquistando mais de 500 seguidores 
+>
 > Esse código implementa um bot que busca tweets que contenham uma determinada palavra-chave ('paia') usando a API do Twitter, e retweeta o tweet encontrado. 
 > Além disso, o bot registra em um arquivo de log todas as informações do tweet retweetado, incluindo o nome do usuário, o texto do tweet e a hora em que foi 
 > retweetado.
